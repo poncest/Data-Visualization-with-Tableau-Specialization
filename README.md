@@ -5,7 +5,7 @@ This is a GitHub Repository for Coursera Data Visualization with Tableau Special
 
 https://www.coursera.org/specializations/data-visualization
 
-#### There are 5 Courses in this Specialization
+### There are 5 Courses in this Specialization
 - Course 1: Fundamentals of Visualization with Tableau
 - Course 2: Essential Design Principles for Tableau
 - Course 3: Visual Analytics with Tableau
